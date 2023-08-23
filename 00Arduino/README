@@ -1,6 +1,6 @@
-#00Arduino file is a script program on air quality monitoring tools#
+## 00Arduino file is a script program on air quality monitoring tools ##
 
-*List of components :* 
+** List of components: **
 1. Node MCU ESP32
 2. PCB / Breadboard
 3. Jumper
