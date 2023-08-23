@@ -1,6 +1,6 @@
-File 00Arduino merupakan script program pada alat monitoring kualitas udara 
+#00Arduino file is a script program on air quality monitoring tools#
 
-Alat dan bahan yang diperlukan : 
+*List of components :* 
 1. Node MCU ESP32
 2. PCB / Breadboard
 3. Jumper
@@ -8,4 +8,4 @@ Alat dan bahan yang diperlukan :
 5. Sensor MQ7
 6. Sharp Dust GP2Y1010AU0UF
 7. Switch
-8. Baterai
+8. Batteries
