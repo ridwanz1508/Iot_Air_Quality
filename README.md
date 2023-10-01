@@ -8,3 +8,6 @@
 
 
 This Website have responsived with other devices
+
+*password*
+![password](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/cf92222f-1006-462e-af9e-da70cb259ce3)
