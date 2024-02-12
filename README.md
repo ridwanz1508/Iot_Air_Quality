@@ -8,17 +8,7 @@
 
 
 This Website have responsived with other devices
-
-# password   
-![password](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/cf92222f-1006-462e-af9e-da70cb259ce3)
-
-# register
-![register](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/5d1b5876-dc22-4b47-b74b-765bc85f1f5f)
-
-# login
-![login](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/b4e618ef-c4f3-4d78-b107-024c64dacd29)
-
-# dashboard
+**dashboard**
 ![dashboard](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/5403d202-507a-4dd2-8ecd-e1bc9bb8def1)
 
 # graph
