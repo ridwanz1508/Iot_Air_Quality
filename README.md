@@ -8,7 +8,7 @@
 
 
 This Website have responsived with other devices
-**dashboard**
+# dashboard
 ![dashboard](https://github.com/ridwanz1508/Iot_Air_Quality/assets/134186848/5403d202-507a-4dd2-8ecd-e1bc9bb8def1)
 
 # graph
